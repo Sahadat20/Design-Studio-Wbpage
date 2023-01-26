@@ -1,1 +1,2 @@
 This is a webpage for a design studios. 
+This design completed based on the image provided in master branch.
